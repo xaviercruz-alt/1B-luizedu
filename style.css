@@ -1,7 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
 :root{
-    --onyx: #403f4cff;
---raisin-black: #2c2b3cff;
---gunmetal: #1b2432ff;
+    --ônix: #403f4cff;
+--preto: #2c2b3cff;
+--preto-azul: rgb(0, 14, 36);
 --rich-black: #121420ff;
+--titulo: "Bungee Spice", sans-serif;
+--texto: "Indie Flower", cursive;
 }
-
+body{
+  background-color: var(--preto);  
+  font-family: var(--titulo);
+}
