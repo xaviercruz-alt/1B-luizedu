@@ -41,3 +41,11 @@ main{
   max-width: 90%;
   text-shadow: 28px;
 }
+
+.passo{
+  display: none;
+}
+
+.ativo{
+  display: block;
+}
